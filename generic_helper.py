@@ -1,5 +1,3 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
-
 import re
 
 def get_str_from_food_dict(food_dict: dict):
@@ -14,3 +12,6 @@ def extract_session_id(session_str: str):
         return extracted_string
 
     return ""
+
+# Based on a tutorial by Dhaval Patel (Codebasics YouTube Channel)
+# Modified and extended by Princess Adekola
