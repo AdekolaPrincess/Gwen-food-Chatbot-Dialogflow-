@@ -10,7 +10,7 @@ This project was built by following a tutorial from Codebasics (Dhaval Patel) an
 
 ---
 
-## 🚀 What I Learned
+## What I Learned
 
 ### 🔹 Dialogflow
 - Creating and training Intents  
@@ -36,7 +36,7 @@ This project was built by following a tutorial from Codebasics (Dhaval Patel) an
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Dialogflow  
 - Python 
@@ -46,7 +46,7 @@ This project was built by following a tutorial from Codebasics (Dhaval Patel) an
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. A user sends a message to the chatbot.  
 2. Dialogflow matches the message to an Intent.  
@@ -58,7 +58,7 @@ This project was built by following a tutorial from Codebasics (Dhaval Patel) an
 
 ---
 
-## ✨ Key Modifications
+##  Key Modifications
 
 - Modified the database structure to better fit the chatbot logic  
 - Adjusted backend logic for improved response handling  
@@ -67,7 +67,7 @@ This project was built by following a tutorial from Codebasics (Dhaval Patel) an
 
 ---
 
-## 📚 Learning Resource
+## Learning Resource
 
 Inspired by:
 Codebasics YouTube Channel – Dhaval Patel  
@@ -76,7 +76,7 @@ The implementation was modified and extended as part of my personal learning pro
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 The chatbot successfully:
 - Recognizes user intents  
